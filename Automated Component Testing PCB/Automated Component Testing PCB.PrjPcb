@@ -203,57 +203,6 @@ GenerateClassCluster=0
 DocumentUniqueId=VGLLBDJH
 
 [Document10]
-DocumentPath=Ethernet Cable Tester.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ODMONLLG
-
-[Document11]
-DocumentPath=HDMI Cable Tester.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EVULACLK
-
-[Document12]
-DocumentPath=USB Cable Tester.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VGOIVRIW
-
-[Document13]
 DocumentPath=CC Led Driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CSNYYHOV
 
-[Document14]
+[Document11]
 DocumentPath=Fan and Pump Headers.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XSGQZNZD
 
-[Document15]
+[Document12]
 DocumentPath=Sensors Test.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UTBKLTHK
 
-[Document16]
+[Document13]
 DocumentPath=Power Supply Test.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MFOQZXJI
 
-[Document17]
+[Document14]
 DocumentPath=Parallel PCU Test.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IKLASMIO
 
-[Document18]
+[Document15]
 DocumentPath=Temperature Sensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XTMOPOFT
 
-[Document19]
+[Document16]
 DocumentPath=USB To UART Converter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MQUWDABA
 
-[Document20]
+[Document17]
 DocumentPath=Control Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MIIVCVBE
 
-[Document21]
+[Document18]
 DocumentPath=RS-485 Transceiver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
