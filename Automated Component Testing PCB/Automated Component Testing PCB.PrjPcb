@@ -1,6 +1,6 @@
 ﻿[Design]
 Version=1.0
-HierarchyMode=0
+HierarchyMode=2
 ChannelRoomNamingStyle=0
 ReleasesFolder=
 ChannelDesignatorFormatString=$Component_$RoomName
@@ -50,13 +50,30 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=Main.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DLKXOBSV
+
+[Document2]
 DocumentPath=Block Diagram.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -66,14 +83,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TAFYBWDK
 
-[Document2]
+[Document3]
 DocumentPath=Parallel LED Strip Buck Converter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -83,14 +100,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MXUECTUJ
 
-[Document3]
+[Document4]
 DocumentPath=3.3V Buck Converter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -100,14 +117,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EWVNABOG
 
-[Document4]
+[Document5]
 DocumentPath=Thermocouple to Digital Converter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -117,14 +134,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DMPQHOVT
 
-[Document5]
+[Document6]
 DocumentPath=Magnetometer and Electromagnet Driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -134,14 +151,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AIMMZBXE
 
-[Document6]
+[Document7]
 DocumentPath=5V LDO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -151,14 +168,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MMYAAASI
 
-[Document7]
+[Document8]
 DocumentPath=PTC Heater Driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -168,14 +185,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KLNPCYMF
 
-[Document8]
+[Document9]
 DocumentPath=Stepper Driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=8
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -185,14 +202,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MRLLRUDP
 
-[Document9]
+[Document10]
 DocumentPath=STM32F103C8T6 MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=9
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -202,14 +219,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VGLLBDJH
 
-[Document10]
+[Document11]
 DocumentPath=CC Led Driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=10
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -219,14 +236,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CSNYYHOV
 
-[Document11]
+[Document12]
 DocumentPath=Fan and Pump Headers.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=11
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -236,14 +253,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XSGQZNZD
 
-[Document12]
+[Document13]
 DocumentPath=Sensors Test.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=12
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -253,14 +270,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UTBKLTHK
 
-[Document13]
+[Document14]
 DocumentPath=Power Supply Test.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=13
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -270,14 +287,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MFOQZXJI
 
-[Document14]
+[Document15]
 DocumentPath=Parallel PCU Test.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=14
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -287,14 +304,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IKLASMIO
 
-[Document15]
+[Document16]
 DocumentPath=Temperature Sensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=15
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -304,14 +321,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XTMOPOFT
 
-[Document16]
+[Document17]
 DocumentPath=USB To UART Converter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=16
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -321,23 +338,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MQUWDABA
 
-[Document17]
-DocumentPath=Control Interface.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MIIVCVBE
-
 [Document18]
 DocumentPath=RS-485 Transceiver.SchDoc
 AnnotationEnabled=1
@@ -345,7 +345,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=17
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -355,13 +355,30 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QPYHOOQX
 
-[Parameter1]
-Name=Author
-Value=Hany Hamza
+[Document19]
+DocumentPath=Control Interface.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=18
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MIIVCVBE
 
-[Parameter2]
+[Parameter1]
 Name=Revision
 Value=A
+
+[Parameter2]
+Name=Author
+Value=Hany Hamza
 
 [Configuration1]
 Name=Sources
@@ -1359,16 +1376,40 @@ Net7=NetName=+3V6_PCU|NetColor=clRed
 Net8=NetName=+5V0|NetColor=clRed
 Net9=NetName=C\S\|NetColor=clLime
 Net10=NetName=CH340_V3|NetColor=clRed
-Net11=NetName=GND|NetColor=clBlue
-Net12=NetName=L_UNFUSED|NetColor=$000099FF
-Net13=NetName=LIVE|NetColor=$000099FF
-Net14=NetName=NetU?_8|NetColor=clLime
-Net15=NetName=NetU?_9|NetColor=clLime
-Net16=NetName=NEUTRAL|NetColor=$000099FF
-Net17=NetName=PTC_SW|NetColor=$000099FF
-Net18=NetName=SCK|NetColor=clLime
-Net19=NetName=SO|NetColor=clLime
-Net20=NetName=VBUS|NetColor=clRed
+Net11=NetName=D|NetColor=clLime
+Net12=NetName=GND|NetColor=clBlue
+Net13=NetName=I2C_SCL|NetColor=clLime
+Net14=NetName=I2C_SDA|NetColor=clLime
+Net15=NetName=I2C1_SCL|NetColor=clLime
+Net16=NetName=I2C1_SDA|NetColor=clLime
+Net17=NetName=L_UNFUSED|NetColor=$000099FF
+Net18=NetName=LIVE|NetColor=$000099FF
+Net19=NetName=NetU?_16|NetColor=clLime
+Net20=NetName=NetU?_43|NetColor=clLime
+Net21=NetName=NetU?_45|NetColor=clLime
+Net22=NetName=NetU?_8|NetColor=clLime
+Net23=NetName=NetU?_9|NetColor=clLime
+Net24=NetName=NEUTRAL|NetColor=$000099FF
+Net25=NetName=ONE_WIRE|NetColor=clLime
+Net26=NetName=PTC_SW|NetColor=$000099FF
+Net27=NetName=R|NetColor=clLime
+Net28=NetName=RS_D|NetColor=clLime
+Net29=NetName=RS_R|NetColor=clLime
+Net30=NetName=SCK|NetColor=clLime
+Net31=NetName=SO|NetColor=clLime
+Net32=NetName=SPI2_MISO|NetColor=clLime
+Net33=NetName=SPI2_MOSI|NetColor=clLime
+Net34=NetName=SPI2_SCK|NetColor=clLime
+Net35=NetName=STM32_OSC_IN|NetColor=clFuchsia
+Net36=NetName=STM32_OSC_OUT|NetColor=clFuchsia
+Net37=NetName=STM32_SWCLK|NetColor=clLime
+Net38=NetName=STM32_SWDCLK|NetColor=clLime
+Net39=NetName=STM32_SWDIO|NetColor=clLime
+Net40=NetName=UART1_RX|NetColor=clLime
+Net41=NetName=UART1_TX|NetColor=clLime
+Net42=NetName=UART2_RX|NetColor=clLime
+Net43=NetName=UART2_TX|NetColor=clLime
+Net44=NetName=VBUS|NetColor=clRed
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
