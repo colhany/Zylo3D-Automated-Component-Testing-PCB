@@ -67,6 +67,23 @@ GenerateClassCluster=0
 DocumentUniqueId=TAFYBWDK
 
 [Document2]
+DocumentPath=Parallel LED Strip Buck Converter.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MXUECTUJ
+
+[Document3]
 DocumentPath=3.3V Buck Converter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EWVNABOG
 
-[Document3]
+[Document4]
 DocumentPath=Thermocouple to Digital Converter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DMPQHOVT
 
-[Document4]
+[Document5]
 DocumentPath=Magnetometer and Electromagnet Driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AIMMZBXE
 
-[Document5]
+[Document6]
 DocumentPath=5V LDO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MMYAAASI
 
-[Document6]
+[Document7]
 DocumentPath=PTC Heater Driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KLNPCYMF
 
-[Document7]
+[Document8]
 DocumentPath=Stepper Driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MRLLRUDP
 
-[Document8]
+[Document9]
 DocumentPath=STM32F103C8T6 MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VGLLBDJH
 
-[Document9]
+[Document10]
 DocumentPath=Ethernet Cable Tester.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ODMONLLG
 
-[Document10]
+[Document11]
 DocumentPath=HDMI Cable Tester.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EVULACLK
 
-[Document11]
+[Document12]
 DocumentPath=USB Cable Tester.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VGOIVRIW
 
-[Document12]
+[Document13]
 DocumentPath=CC Led Driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CSNYYHOV
 
-[Document13]
+[Document14]
 DocumentPath=Fan and Pump Headers.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XSGQZNZD
 
-[Document14]
+[Document15]
 DocumentPath=Sensors Test.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UTBKLTHK
 
-[Document15]
+[Document16]
 DocumentPath=Power Supply Test.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +321,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MFOQZXJI
 
-[Document16]
+[Document17]
+DocumentPath=Parallel PCU Test.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IKLASMIO
+
+[Document18]
 DocumentPath=Temperature Sensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +355,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XTMOPOFT
 
-[Document17]
+[Document19]
+DocumentPath=USB To UART Converter.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MQUWDABA
+
+[Document20]
 DocumentPath=Control Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,13 +389,30 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MIIVCVBE
 
-[Parameter1]
-Name=Revision
-Value=A
+[Document21]
+DocumentPath=RS-485 Transceiver.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QPYHOOQX
 
-[Parameter2]
+[Parameter1]
 Name=Author
 Value=Hany Hamza
+
+[Parameter2]
+Name=Revision
+Value=A
 
 [Configuration1]
 Name=Sources
@@ -1333,14 +1401,25 @@ PartTypes=0
 
 [NetInfos]
 Net1=NetName=+12V0|NetColor=clRed
-Net2=NetName=+24V0|NetColor=clRed
-Net3=NetName=+3V3|NetColor=clRed
-Net4=NetName=+5V0|NetColor=clRed
-Net5=NetName=GND|NetColor=clBlue
-Net6=NetName=L_UNFUSED|NetColor=$000099FF
-Net7=NetName=LIVE|NetColor=$000099FF
-Net8=NetName=NEUTRAL|NetColor=$000099FF
-Net9=NetName=PTC_SW|NetColor=$000099FF
+Net2=NetName=+12V0_SUPPLY|NetColor=clRed
+Net3=NetName=+24V0|NetColor=clRed
+Net4=NetName=+24V0_SUPPLY|NetColor=clRed
+Net5=NetName=+3V3|NetColor=clRed
+Net6=NetName=+3V6|NetColor=clRed
+Net7=NetName=+3V6_PCU|NetColor=clRed
+Net8=NetName=+5V0|NetColor=clRed
+Net9=NetName=C\S\|NetColor=clLime
+Net10=NetName=CH340_V3|NetColor=clRed
+Net11=NetName=GND|NetColor=clBlue
+Net12=NetName=L_UNFUSED|NetColor=$000099FF
+Net13=NetName=LIVE|NetColor=$000099FF
+Net14=NetName=NetU?_8|NetColor=clLime
+Net15=NetName=NetU?_9|NetColor=clLime
+Net16=NetName=NEUTRAL|NetColor=$000099FF
+Net17=NetName=PTC_SW|NetColor=$000099FF
+Net18=NetName=SCK|NetColor=clLime
+Net19=NetName=SO|NetColor=clLime
+Net20=NetName=VBUS|NetColor=clRed
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
